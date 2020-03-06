@@ -1,4 +1,4 @@
-namespace WebAPI.DLL
+namespace WebAPI.DLL.DataModels
 {
     using System;
     using System.Collections.Generic;

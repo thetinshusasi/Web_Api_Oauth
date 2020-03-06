@@ -16,6 +16,9 @@ using WebAPI.DLL.AutoMapperProfiles;
 using Ninject.Web.Common.OwinHost;
 using Ninject.Web.Common;
 using Swashbuckle.Application;
+using WebAPI.DLL.DataModels;
+using System.Web.Cors;
+using Microsoft.Owin.Cors;
 
 namespace WebAPITut
 {
@@ -27,31 +30,39 @@ namespace WebAPITut
         {
             var config = new HttpConfiguration();
             WebApiConfig.Register(config);
-            config.EnableCors();
+            
             app.UseNinjectMiddleware(CreateKernel).UseNinjectWebApi(config);
             config
-    .EnableSwagger(c => c.SingleApiVersion("v1", "Owin Self hosted Web API"))
-    .EnableSwaggerUi();
+            .EnableSwagger(c => c.SingleApiVersion("v1", "Owin Self hosted Web API"))
+            .EnableSwaggerUi();
+
+            app.UseCors(CorsOptions.AllowAll);
+            app.UseWebApi(config);
+
 
         }
         private static StandardKernel CreateKernel()
         {
             var kernel = new StandardKernel();
             kernel.Bind<Func<IKernel>>().ToMethod(ctx => () => new Bootstrapper().Kernel);
-
-            //kernel.Bind<IHttpModule>().To<HttpApplicationInitializationHttpModule>();
-
             RegisterServices(kernel);
-
             kernel.Load(Assembly.GetExecutingAssembly());
             return kernel;
         }
         private static void RegisterServices(IKernel kernel)
         {
             kernel.Bind<IProductRepository>().To<ProductRepository>();
-            kernel.Bind<DbContext>().To<SqlContext>();
-            kernel.Bind(typeof(IRepository<>)).To(typeof(Repository<>));
+            kernel.Bind<ICategoryRepository>().To<CategoryRepository>();
+            kernel.Bind<ICustomerRepository>().To<CustomerRepository>();
+            kernel.Bind<IEmployeeRepository>().To<EmployeeRepository>();
+            kernel.Bind<IOrderRepository>().To<OrderRepository>();
+            kernel.Bind<IRegionRepository>().To<RegionRepository>();
+            kernel.Bind<IShipperRepository>().To<ShipperRepository>();
+            kernel.Bind<ISuppilerRepository>().To<SuppilerRepository>();
+            kernel.Bind<ITerritoryRepository>().To<TerritoryRepository>();
 
+            kernel.Bind<DbContext>().To<NorthWind>();
+            kernel.Bind(typeof(IRepository<>)).To(typeof(Repository<>));
             var mapperConfiguration = new MapperConfiguration(cfg =>
             {
                 //Add your automapper profiles here

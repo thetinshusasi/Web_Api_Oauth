@@ -1,14 +1,14 @@
-namespace WebAPI.DLL
+namespace WebAPI.DLL.DataModels
 {
     using System;
     using System.Data.Entity;
     using System.ComponentModel.DataAnnotations.Schema;
     using System.Linq;
 
-    public partial class Northwind : DbContext
+    public partial class NorthWind : DbContext
     {
-        public Northwind()
-            : base("name=Northwind1")
+        public NorthWind()
+            : base("name=NorthWind1")
         {
         }
 
@@ -22,6 +22,7 @@ namespace WebAPI.DLL
         public virtual DbSet<Region> Regions { get; set; }
         public virtual DbSet<Shipper> Shippers { get; set; }
         public virtual DbSet<Supplier> Suppliers { get; set; }
+        public virtual DbSet<sysdiagram> sysdiagrams { get; set; }
         public virtual DbSet<Territory> Territories { get; set; }
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)

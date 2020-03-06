@@ -1,3 +1,181 @@
+D:\Test Code\C#\Web Api\Web API Self Hosting OWIN\WebAPI_Self_Hosting\WebAPITut\bin\roslyn\csc.exe
+D:\Test Code\C#\Web Api\Web API Self Hosting OWIN\WebAPI_Self_Hosting\WebAPITut\bin\roslyn\csc.exe.config
+D:\Test Code\C#\Web Api\Web API Self Hosting OWIN\WebAPI_Self_Hosting\WebAPITut\bin\roslyn\csc.rsp
+D:\Test Code\C#\Web Api\Web API Self Hosting OWIN\WebAPI_Self_Hosting\WebAPITut\bin\roslyn\csi.exe
+D:\Test Code\C#\Web Api\Web API Self Hosting OWIN\WebAPI_Self_Hosting\WebAPITut\bin\roslyn\csi.rsp
+D:\Test Code\C#\Web Api\Web API Self Hosting OWIN\WebAPI_Self_Hosting\WebAPITut\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Test Code\C#\Web Api\Web API Self Hosting OWIN\WebAPI_Self_Hosting\WebAPITut\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Test Code\C#\Web Api\Web API Self Hosting OWIN\WebAPI_Self_Hosting\WebAPITut\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Test Code\C#\Web Api\Web API Self Hosting OWIN\WebAPI_Self_Hosting\WebAPITut\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Test Code\C#\Web Api\Web API Self Hosting OWIN\WebAPI_Self_Hosting\WebAPITut\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Test Code\C#\Web Api\Web API Self Hosting OWIN\WebAPI_Self_Hosting\WebAPITut\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Test Code\C#\Web Api\Web API Self Hosting OWIN\WebAPI_Self_Hosting\WebAPITut\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Test Code\C#\Web Api\Web API Self Hosting OWIN\WebAPI_Self_Hosting\WebAPITut\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Test Code\C#\Web Api\Web API Self Hosting OWIN\WebAPI_Self_Hosting\WebAPITut\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Test Code\C#\Web Api\Web API Self Hosting OWIN\WebAPI_Self_Hosting\WebAPITut\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Test Code\C#\Web Api\Web API Self Hosting OWIN\WebAPI_Self_Hosting\WebAPITut\bin\roslyn\System.AppContext.dll
+D:\Test Code\C#\Web Api\Web API Self Hosting OWIN\WebAPI_Self_Hosting\WebAPITut\bin\roslyn\System.Collections.Immutable.dll
+D:\Test Code\C#\Web Api\Web API Self Hosting OWIN\WebAPI_Self_Hosting\WebAPITut\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Test Code\C#\Web Api\Web API Self Hosting OWIN\WebAPI_Self_Hosting\WebAPITut\bin\roslyn\System.IO.FileSystem.dll
+D:\Test Code\C#\Web Api\Web API Self Hosting OWIN\WebAPI_Self_Hosting\WebAPITut\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Test Code\C#\Web Api\Web API Self Hosting OWIN\WebAPI_Self_Hosting\WebAPITut\bin\roslyn\System.Reflection.Metadata.dll
+D:\Test Code\C#\Web Api\Web API Self Hosting OWIN\WebAPI_Self_Hosting\WebAPITut\bin\roslyn\vbc.exe
+D:\Test Code\C#\Web Api\Web API Self Hosting OWIN\WebAPI_Self_Hosting\WebAPITut\bin\roslyn\vbc.exe.config
+D:\Test Code\C#\Web Api\Web API Self Hosting OWIN\WebAPI_Self_Hosting\WebAPITut\bin\roslyn\vbc.rsp
+D:\Test Code\C#\Web Api\Web API Self Hosting OWIN\WebAPI_Self_Hosting\WebAPITut\bin\roslyn\VBCSCompiler.exe
+D:\Test Code\C#\Web Api\Web API Self Hosting OWIN\WebAPI_Self_Hosting\WebAPITut\bin\roslyn\VBCSCompiler.exe.config
+D:\Test Code\C#\Web Api\Web API Self Hosting OWIN\WebAPI_Self_Hosting\WebAPITut\bin\WebAPITut.exe.config
+D:\Test Code\C#\Web Api\Web API Self Hosting OWIN\WebAPI_Self_Hosting\WebAPITut\bin\WebAPITut.exe
+D:\Test Code\C#\Web Api\Web API Self Hosting OWIN\WebAPI_Self_Hosting\WebAPITut\bin\WebAPITut.pdb
+D:\Test Code\C#\Web Api\Web API Self Hosting OWIN\WebAPI_Self_Hosting\WebAPITut\bin\AutoMapper.dll
+D:\Test Code\C#\Web Api\Web API Self Hosting OWIN\WebAPI_Self_Hosting\WebAPITut\bin\AutoMapper.EF6.dll
+D:\Test Code\C#\Web Api\Web API Self Hosting OWIN\WebAPI_Self_Hosting\WebAPITut\bin\DelegateDecompiler.dll
+D:\Test Code\C#\Web Api\Web API Self Hosting OWIN\WebAPI_Self_Hosting\WebAPITut\bin\DelegateDecompiler.EntityFramework.dll
+D:\Test Code\C#\Web Api\Web API Self Hosting OWIN\WebAPI_Self_Hosting\WebAPITut\bin\EntityFramework.dll
+D:\Test Code\C#\Web Api\Web API Self Hosting OWIN\WebAPI_Self_Hosting\WebAPITut\bin\EntityFramework.SqlServer.dll
+D:\Test Code\C#\Web Api\Web API Self Hosting OWIN\WebAPI_Self_Hosting\WebAPITut\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Test Code\C#\Web Api\Web API Self Hosting OWIN\WebAPI_Self_Hosting\WebAPITut\bin\Microsoft.Owin.Diagnostics.dll
+D:\Test Code\C#\Web Api\Web API Self Hosting OWIN\WebAPI_Self_Hosting\WebAPITut\bin\Microsoft.Owin.dll
+D:\Test Code\C#\Web Api\Web API Self Hosting OWIN\WebAPI_Self_Hosting\WebAPITut\bin\Microsoft.Owin.Host.HttpListener.dll
+D:\Test Code\C#\Web Api\Web API Self Hosting OWIN\WebAPI_Self_Hosting\WebAPITut\bin\Microsoft.Owin.Hosting.dll
+D:\Test Code\C#\Web Api\Web API Self Hosting OWIN\WebAPI_Self_Hosting\WebAPITut\bin\Microsoft.Web.Infrastructure.dll
+D:\Test Code\C#\Web Api\Web API Self Hosting OWIN\WebAPI_Self_Hosting\WebAPITut\bin\Mono.Reflection.dll
+D:\Test Code\C#\Web Api\Web API Self Hosting OWIN\WebAPI_Self_Hosting\WebAPITut\bin\Newtonsoft.Json.dll
+D:\Test Code\C#\Web Api\Web API Self Hosting OWIN\WebAPI_Self_Hosting\WebAPITut\bin\Ninject.dll
+D:\Test Code\C#\Web Api\Web API Self Hosting OWIN\WebAPI_Self_Hosting\WebAPITut\bin\Ninject.Extensions.NamedScope.dll
+D:\Test Code\C#\Web Api\Web API Self Hosting OWIN\WebAPI_Self_Hosting\WebAPITut\bin\Ninject.Web.Common.dll
+D:\Test Code\C#\Web Api\Web API Self Hosting OWIN\WebAPI_Self_Hosting\WebAPITut\bin\Ninject.Web.Common.OwinHost.dll
+D:\Test Code\C#\Web Api\Web API Self Hosting OWIN\WebAPI_Self_Hosting\WebAPITut\bin\Ninject.Web.WebApi.dll
+D:\Test Code\C#\Web Api\Web API Self Hosting OWIN\WebAPI_Self_Hosting\WebAPITut\bin\Ninject.Web.WebApi.OwinHost.dll
+D:\Test Code\C#\Web Api\Web API Self Hosting OWIN\WebAPI_Self_Hosting\WebAPITut\bin\Owin.dll
+D:\Test Code\C#\Web Api\Web API Self Hosting OWIN\WebAPI_Self_Hosting\WebAPITut\bin\Swashbuckle.Core.dll
+D:\Test Code\C#\Web Api\Web API Self Hosting OWIN\WebAPI_Self_Hosting\WebAPITut\bin\System.Diagnostics.Process.dll
+D:\Test Code\C#\Web Api\Web API Self Hosting OWIN\WebAPI_Self_Hosting\WebAPITut\bin\System.Net.Http.Formatting.dll
+D:\Test Code\C#\Web Api\Web API Self Hosting OWIN\WebAPI_Self_Hosting\WebAPITut\bin\System.Web.Cors.dll
+D:\Test Code\C#\Web Api\Web API Self Hosting OWIN\WebAPI_Self_Hosting\WebAPITut\bin\System.Web.Http.Cors.dll
+D:\Test Code\C#\Web Api\Web API Self Hosting OWIN\WebAPI_Self_Hosting\WebAPITut\bin\System.Web.Http.dll
+D:\Test Code\C#\Web Api\Web API Self Hosting OWIN\WebAPI_Self_Hosting\WebAPITut\bin\System.Web.Http.Owin.dll
+D:\Test Code\C#\Web Api\Web API Self Hosting OWIN\WebAPI_Self_Hosting\WebAPITut\bin\System.Web.Http.SelfHost.dll
+D:\Test Code\C#\Web Api\Web API Self Hosting OWIN\WebAPI_Self_Hosting\WebAPITut\bin\System.Web.Http.WebHost.dll
+D:\Test Code\C#\Web Api\Web API Self Hosting OWIN\WebAPI_Self_Hosting\WebAPITut\bin\WebActivatorEx.dll
+D:\Test Code\C#\Web Api\Web API Self Hosting OWIN\WebAPI_Self_Hosting\WebAPITut\bin\WebAPI.DLL.dll
+D:\Test Code\C#\Web Api\Web API Self Hosting OWIN\WebAPI_Self_Hosting\WebAPITut\bin\WebAPI.DLL.pdb
+D:\Test Code\C#\Web Api\Web API Self Hosting OWIN\WebAPI_Self_Hosting\WebAPITut\bin\WebAPI.DLL.dll.config
+D:\Test Code\C#\Web Api\Web API Self Hosting OWIN\WebAPI_Self_Hosting\WebAPITut\bin\AutoMapper.pdb
+D:\Test Code\C#\Web Api\Web API Self Hosting OWIN\WebAPI_Self_Hosting\WebAPITut\bin\AutoMapper.xml
+D:\Test Code\C#\Web Api\Web API Self Hosting OWIN\WebAPI_Self_Hosting\WebAPITut\bin\EntityFramework.xml
+D:\Test Code\C#\Web Api\Web API Self Hosting OWIN\WebAPI_Self_Hosting\WebAPITut\bin\EntityFramework.SqlServer.xml
+D:\Test Code\C#\Web Api\Web API Self Hosting OWIN\WebAPI_Self_Hosting\WebAPITut\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Test Code\C#\Web Api\Web API Self Hosting OWIN\WebAPI_Self_Hosting\WebAPITut\bin\Microsoft.Owin.xml
+D:\Test Code\C#\Web Api\Web API Self Hosting OWIN\WebAPI_Self_Hosting\WebAPITut\bin\Microsoft.Owin.Diagnostics.xml
+D:\Test Code\C#\Web Api\Web API Self Hosting OWIN\WebAPI_Self_Hosting\WebAPITut\bin\Microsoft.Owin.Host.HttpListener.xml
+D:\Test Code\C#\Web Api\Web API Self Hosting OWIN\WebAPI_Self_Hosting\WebAPITut\bin\Microsoft.Owin.Hosting.xml
+D:\Test Code\C#\Web Api\Web API Self Hosting OWIN\WebAPI_Self_Hosting\WebAPITut\bin\Newtonsoft.Json.xml
+D:\Test Code\C#\Web Api\Web API Self Hosting OWIN\WebAPI_Self_Hosting\WebAPITut\bin\Ninject.xml
+D:\Test Code\C#\Web Api\Web API Self Hosting OWIN\WebAPI_Self_Hosting\WebAPITut\bin\Ninject.Extensions.NamedScope.xml
+D:\Test Code\C#\Web Api\Web API Self Hosting OWIN\WebAPI_Self_Hosting\WebAPITut\bin\Ninject.Web.Common.xml
+D:\Test Code\C#\Web Api\Web API Self Hosting OWIN\WebAPI_Self_Hosting\WebAPITut\bin\Ninject.Web.Common.OwinHost.xml
+D:\Test Code\C#\Web Api\Web API Self Hosting OWIN\WebAPI_Self_Hosting\WebAPITut\bin\Ninject.Web.WebApi.xml
+D:\Test Code\C#\Web Api\Web API Self Hosting OWIN\WebAPI_Self_Hosting\WebAPITut\bin\Ninject.Web.WebApi.OwinHost.xml
+D:\Test Code\C#\Web Api\Web API Self Hosting OWIN\WebAPI_Self_Hosting\WebAPITut\bin\System.Net.Http.Formatting.xml
+D:\Test Code\C#\Web Api\Web API Self Hosting OWIN\WebAPI_Self_Hosting\WebAPITut\bin\System.Web.Http.xml
+D:\Test Code\C#\Web Api\Web API Self Hosting OWIN\WebAPI_Self_Hosting\WebAPITut\bin\System.Web.Http.Cors.xml
+D:\Test Code\C#\Web Api\Web API Self Hosting OWIN\WebAPI_Self_Hosting\WebAPITut\bin\System.Web.Http.Owin.xml
+D:\Test Code\C#\Web Api\Web API Self Hosting OWIN\WebAPI_Self_Hosting\WebAPITut\bin\System.Web.Http.SelfHost.xml
+D:\Test Code\C#\Web Api\Web API Self Hosting OWIN\WebAPI_Self_Hosting\WebAPITut\bin\System.Web.Http.WebHost.xml
+D:\Test Code\C#\Web Api\Web API Self Hosting OWIN\WebAPI_Self_Hosting\WebAPITut\obj\Debug\WebAPITut.csprojResolveAssemblyReference.cache
+D:\Test Code\C#\Web Api\Web API Self Hosting OWIN\WebAPI_Self_Hosting\WebAPITut\obj\Debug\WebAPITut.exe
+D:\Test Code\C#\Web Api\Web API Self Hosting OWIN\WebAPI_Self_Hosting\WebAPITut\obj\Debug\WebAPITut.pdb
+D:\Test Code\C#\Web Api\Web API Self Host\WebAPI_Self_Hosting\WebAPITut\bin\roslyn\csc.exe
+D:\Test Code\C#\Web Api\Web API Self Host\WebAPI_Self_Hosting\WebAPITut\bin\roslyn\csc.exe.config
+D:\Test Code\C#\Web Api\Web API Self Host\WebAPI_Self_Hosting\WebAPITut\bin\roslyn\csc.rsp
+D:\Test Code\C#\Web Api\Web API Self Host\WebAPI_Self_Hosting\WebAPITut\bin\roslyn\csi.exe
+D:\Test Code\C#\Web Api\Web API Self Host\WebAPI_Self_Hosting\WebAPITut\bin\roslyn\csi.rsp
+D:\Test Code\C#\Web Api\Web API Self Host\WebAPI_Self_Hosting\WebAPITut\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Test Code\C#\Web Api\Web API Self Host\WebAPI_Self_Hosting\WebAPITut\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Test Code\C#\Web Api\Web API Self Host\WebAPI_Self_Hosting\WebAPITut\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Test Code\C#\Web Api\Web API Self Host\WebAPI_Self_Hosting\WebAPITut\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Test Code\C#\Web Api\Web API Self Host\WebAPI_Self_Hosting\WebAPITut\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Test Code\C#\Web Api\Web API Self Host\WebAPI_Self_Hosting\WebAPITut\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Test Code\C#\Web Api\Web API Self Host\WebAPI_Self_Hosting\WebAPITut\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Test Code\C#\Web Api\Web API Self Host\WebAPI_Self_Hosting\WebAPITut\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Test Code\C#\Web Api\Web API Self Host\WebAPI_Self_Hosting\WebAPITut\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Test Code\C#\Web Api\Web API Self Host\WebAPI_Self_Hosting\WebAPITut\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Test Code\C#\Web Api\Web API Self Host\WebAPI_Self_Hosting\WebAPITut\bin\roslyn\System.AppContext.dll
+D:\Test Code\C#\Web Api\Web API Self Host\WebAPI_Self_Hosting\WebAPITut\bin\roslyn\System.Collections.Immutable.dll
+D:\Test Code\C#\Web Api\Web API Self Host\WebAPI_Self_Hosting\WebAPITut\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Test Code\C#\Web Api\Web API Self Host\WebAPI_Self_Hosting\WebAPITut\bin\roslyn\System.IO.FileSystem.dll
+D:\Test Code\C#\Web Api\Web API Self Host\WebAPI_Self_Hosting\WebAPITut\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Test Code\C#\Web Api\Web API Self Host\WebAPI_Self_Hosting\WebAPITut\bin\roslyn\System.Reflection.Metadata.dll
+D:\Test Code\C#\Web Api\Web API Self Host\WebAPI_Self_Hosting\WebAPITut\bin\roslyn\vbc.exe
+D:\Test Code\C#\Web Api\Web API Self Host\WebAPI_Self_Hosting\WebAPITut\bin\roslyn\vbc.exe.config
+D:\Test Code\C#\Web Api\Web API Self Host\WebAPI_Self_Hosting\WebAPITut\bin\roslyn\vbc.rsp
+D:\Test Code\C#\Web Api\Web API Self Host\WebAPI_Self_Hosting\WebAPITut\bin\roslyn\VBCSCompiler.exe
+D:\Test Code\C#\Web Api\Web API Self Host\WebAPI_Self_Hosting\WebAPITut\bin\roslyn\VBCSCompiler.exe.config
+D:\Test Code\C#\Web Api\Web API Self Host\WebAPI_Self_Hosting\WebAPITut\bin\WebAPITut.exe.config
+D:\Test Code\C#\Web Api\Web API Self Host\WebAPI_Self_Hosting\WebAPITut\bin\WebAPITut.exe
+D:\Test Code\C#\Web Api\Web API Self Host\WebAPI_Self_Hosting\WebAPITut\bin\WebAPITut.pdb
+D:\Test Code\C#\Web Api\Web API Self Host\WebAPI_Self_Hosting\WebAPITut\bin\AutoMapper.dll
+D:\Test Code\C#\Web Api\Web API Self Host\WebAPI_Self_Hosting\WebAPITut\bin\AutoMapper.EF6.dll
+D:\Test Code\C#\Web Api\Web API Self Host\WebAPI_Self_Hosting\WebAPITut\bin\DelegateDecompiler.dll
+D:\Test Code\C#\Web Api\Web API Self Host\WebAPI_Self_Hosting\WebAPITut\bin\DelegateDecompiler.EntityFramework.dll
+D:\Test Code\C#\Web Api\Web API Self Host\WebAPI_Self_Hosting\WebAPITut\bin\EntityFramework.dll
+D:\Test Code\C#\Web Api\Web API Self Host\WebAPI_Self_Hosting\WebAPITut\bin\EntityFramework.SqlServer.dll
+D:\Test Code\C#\Web Api\Web API Self Host\WebAPI_Self_Hosting\WebAPITut\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Test Code\C#\Web Api\Web API Self Host\WebAPI_Self_Hosting\WebAPITut\bin\Microsoft.Owin.Diagnostics.dll
+D:\Test Code\C#\Web Api\Web API Self Host\WebAPI_Self_Hosting\WebAPITut\bin\Microsoft.Owin.dll
+D:\Test Code\C#\Web Api\Web API Self Host\WebAPI_Self_Hosting\WebAPITut\bin\Microsoft.Owin.Host.HttpListener.dll
+D:\Test Code\C#\Web Api\Web API Self Host\WebAPI_Self_Hosting\WebAPITut\bin\Microsoft.Owin.Hosting.dll
+D:\Test Code\C#\Web Api\Web API Self Host\WebAPI_Self_Hosting\WebAPITut\bin\Microsoft.Web.Infrastructure.dll
+D:\Test Code\C#\Web Api\Web API Self Host\WebAPI_Self_Hosting\WebAPITut\bin\Mono.Reflection.dll
+D:\Test Code\C#\Web Api\Web API Self Host\WebAPI_Self_Hosting\WebAPITut\bin\Newtonsoft.Json.dll
+D:\Test Code\C#\Web Api\Web API Self Host\WebAPI_Self_Hosting\WebAPITut\bin\Ninject.dll
+D:\Test Code\C#\Web Api\Web API Self Host\WebAPI_Self_Hosting\WebAPITut\bin\Ninject.Extensions.NamedScope.dll
+D:\Test Code\C#\Web Api\Web API Self Host\WebAPI_Self_Hosting\WebAPITut\bin\Ninject.Web.Common.dll
+D:\Test Code\C#\Web Api\Web API Self Host\WebAPI_Self_Hosting\WebAPITut\bin\Ninject.Web.Common.OwinHost.dll
+D:\Test Code\C#\Web Api\Web API Self Host\WebAPI_Self_Hosting\WebAPITut\bin\Ninject.Web.WebApi.dll
+D:\Test Code\C#\Web Api\Web API Self Host\WebAPI_Self_Hosting\WebAPITut\bin\Ninject.Web.WebApi.OwinHost.dll
+D:\Test Code\C#\Web Api\Web API Self Host\WebAPI_Self_Hosting\WebAPITut\bin\Owin.dll
+D:\Test Code\C#\Web Api\Web API Self Host\WebAPI_Self_Hosting\WebAPITut\bin\Swashbuckle.Core.dll
+D:\Test Code\C#\Web Api\Web API Self Host\WebAPI_Self_Hosting\WebAPITut\bin\System.Diagnostics.Process.dll
+D:\Test Code\C#\Web Api\Web API Self Host\WebAPI_Self_Hosting\WebAPITut\bin\System.Net.Http.Formatting.dll
+D:\Test Code\C#\Web Api\Web API Self Host\WebAPI_Self_Hosting\WebAPITut\bin\System.Web.Cors.dll
+D:\Test Code\C#\Web Api\Web API Self Host\WebAPI_Self_Hosting\WebAPITut\bin\System.Web.Http.Cors.dll
+D:\Test Code\C#\Web Api\Web API Self Host\WebAPI_Self_Hosting\WebAPITut\bin\System.Web.Http.dll
+D:\Test Code\C#\Web Api\Web API Self Host\WebAPI_Self_Hosting\WebAPITut\bin\System.Web.Http.Owin.dll
+D:\Test Code\C#\Web Api\Web API Self Host\WebAPI_Self_Hosting\WebAPITut\bin\System.Web.Http.SelfHost.dll
+D:\Test Code\C#\Web Api\Web API Self Host\WebAPI_Self_Hosting\WebAPITut\bin\System.Web.Http.WebHost.dll
+D:\Test Code\C#\Web Api\Web API Self Host\WebAPI_Self_Hosting\WebAPITut\bin\WebActivatorEx.dll
+D:\Test Code\C#\Web Api\Web API Self Host\WebAPI_Self_Hosting\WebAPITut\bin\WebAPI.DLL.dll
+D:\Test Code\C#\Web Api\Web API Self Host\WebAPI_Self_Hosting\WebAPITut\bin\WebAPI.DLL.pdb
+D:\Test Code\C#\Web Api\Web API Self Host\WebAPI_Self_Hosting\WebAPITut\bin\WebAPI.DLL.dll.config
+D:\Test Code\C#\Web Api\Web API Self Host\WebAPI_Self_Hosting\WebAPITut\bin\AutoMapper.pdb
+D:\Test Code\C#\Web Api\Web API Self Host\WebAPI_Self_Hosting\WebAPITut\bin\AutoMapper.xml
+D:\Test Code\C#\Web Api\Web API Self Host\WebAPI_Self_Hosting\WebAPITut\bin\EntityFramework.xml
+D:\Test Code\C#\Web Api\Web API Self Host\WebAPI_Self_Hosting\WebAPITut\bin\EntityFramework.SqlServer.xml
+D:\Test Code\C#\Web Api\Web API Self Host\WebAPI_Self_Hosting\WebAPITut\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Test Code\C#\Web Api\Web API Self Host\WebAPI_Self_Hosting\WebAPITut\bin\Microsoft.Owin.xml
+D:\Test Code\C#\Web Api\Web API Self Host\WebAPI_Self_Hosting\WebAPITut\bin\Microsoft.Owin.Diagnostics.xml
+D:\Test Code\C#\Web Api\Web API Self Host\WebAPI_Self_Hosting\WebAPITut\bin\Microsoft.Owin.Host.HttpListener.xml
+D:\Test Code\C#\Web Api\Web API Self Host\WebAPI_Self_Hosting\WebAPITut\bin\Microsoft.Owin.Hosting.xml
+D:\Test Code\C#\Web Api\Web API Self Host\WebAPI_Self_Hosting\WebAPITut\bin\Newtonsoft.Json.xml
+D:\Test Code\C#\Web Api\Web API Self Host\WebAPI_Self_Hosting\WebAPITut\bin\Ninject.xml
+D:\Test Code\C#\Web Api\Web API Self Host\WebAPI_Self_Hosting\WebAPITut\bin\Ninject.Extensions.NamedScope.xml
+D:\Test Code\C#\Web Api\Web API Self Host\WebAPI_Self_Hosting\WebAPITut\bin\Ninject.Web.Common.xml
+D:\Test Code\C#\Web Api\Web API Self Host\WebAPI_Self_Hosting\WebAPITut\bin\Ninject.Web.Common.OwinHost.xml
+D:\Test Code\C#\Web Api\Web API Self Host\WebAPI_Self_Hosting\WebAPITut\bin\Ninject.Web.WebApi.xml
+D:\Test Code\C#\Web Api\Web API Self Host\WebAPI_Self_Hosting\WebAPITut\bin\Ninject.Web.WebApi.OwinHost.xml
+D:\Test Code\C#\Web Api\Web API Self Host\WebAPI_Self_Hosting\WebAPITut\bin\System.Net.Http.Formatting.xml
+D:\Test Code\C#\Web Api\Web API Self Host\WebAPI_Self_Hosting\WebAPITut\bin\System.Web.Http.xml
+D:\Test Code\C#\Web Api\Web API Self Host\WebAPI_Self_Hosting\WebAPITut\bin\System.Web.Http.Cors.xml
+D:\Test Code\C#\Web Api\Web API Self Host\WebAPI_Self_Hosting\WebAPITut\bin\System.Web.Http.Owin.xml
+D:\Test Code\C#\Web Api\Web API Self Host\WebAPI_Self_Hosting\WebAPITut\bin\System.Web.Http.SelfHost.xml
+D:\Test Code\C#\Web Api\Web API Self Host\WebAPI_Self_Hosting\WebAPITut\bin\System.Web.Http.WebHost.xml
+D:\Test Code\C#\Web Api\Web API Self Host\WebAPI_Self_Hosting\WebAPITut\obj\Debug\WebAPITut.csprojResolveAssemblyReference.cache
+D:\Test Code\C#\Web Api\Web API Self Host\WebAPI_Self_Hosting\WebAPITut\obj\Debug\WebAPITut.exe
+D:\Test Code\C#\Web Api\Web API Self Host\WebAPI_Self_Hosting\WebAPITut\obj\Debug\WebAPITut.pdb
+D:\Test Code\C#\Web Api\Web API Self Host\WebAPI_Self_Hosting\WebAPITut\bin\Microsoft.Owin.Cors.dll
+D:\Test Code\C#\Web Api\Web API Self Host\WebAPI_Self_Hosting\WebAPITut\bin\Microsoft.Owin.Cors.xml
 D:\Test Code\C#\Web Api\Web_Api_Oauth\Web_Api_Oauth\WebAPITut\bin\roslyn\csc.exe
 D:\Test Code\C#\Web Api\Web_Api_Oauth\Web_Api_Oauth\WebAPITut\bin\roslyn\csc.exe.config
 D:\Test Code\C#\Web Api\Web_Api_Oauth\Web_Api_Oauth\WebAPITut\bin\roslyn\csc.rsp
@@ -34,6 +212,7 @@ D:\Test Code\C#\Web Api\Web_Api_Oauth\Web_Api_Oauth\WebAPITut\bin\DelegateDecomp
 D:\Test Code\C#\Web Api\Web_Api_Oauth\Web_Api_Oauth\WebAPITut\bin\EntityFramework.dll
 D:\Test Code\C#\Web Api\Web_Api_Oauth\Web_Api_Oauth\WebAPITut\bin\EntityFramework.SqlServer.dll
 D:\Test Code\C#\Web Api\Web_Api_Oauth\Web_Api_Oauth\WebAPITut\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Test Code\C#\Web Api\Web_Api_Oauth\Web_Api_Oauth\WebAPITut\bin\Microsoft.Owin.Cors.dll
 D:\Test Code\C#\Web Api\Web_Api_Oauth\Web_Api_Oauth\WebAPITut\bin\Microsoft.Owin.Diagnostics.dll
 D:\Test Code\C#\Web Api\Web_Api_Oauth\Web_Api_Oauth\WebAPITut\bin\Microsoft.Owin.dll
 D:\Test Code\C#\Web Api\Web_Api_Oauth\Web_Api_Oauth\WebAPITut\bin\Microsoft.Owin.Host.HttpListener.dll
@@ -67,6 +246,7 @@ D:\Test Code\C#\Web Api\Web_Api_Oauth\Web_Api_Oauth\WebAPITut\bin\EntityFramewor
 D:\Test Code\C#\Web Api\Web_Api_Oauth\Web_Api_Oauth\WebAPITut\bin\EntityFramework.SqlServer.xml
 D:\Test Code\C#\Web Api\Web_Api_Oauth\Web_Api_Oauth\WebAPITut\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 D:\Test Code\C#\Web Api\Web_Api_Oauth\Web_Api_Oauth\WebAPITut\bin\Microsoft.Owin.xml
+D:\Test Code\C#\Web Api\Web_Api_Oauth\Web_Api_Oauth\WebAPITut\bin\Microsoft.Owin.Cors.xml
 D:\Test Code\C#\Web Api\Web_Api_Oauth\Web_Api_Oauth\WebAPITut\bin\Microsoft.Owin.Diagnostics.xml
 D:\Test Code\C#\Web Api\Web_Api_Oauth\Web_Api_Oauth\WebAPITut\bin\Microsoft.Owin.Host.HttpListener.xml
 D:\Test Code\C#\Web Api\Web_Api_Oauth\Web_Api_Oauth\WebAPITut\bin\Microsoft.Owin.Hosting.xml
