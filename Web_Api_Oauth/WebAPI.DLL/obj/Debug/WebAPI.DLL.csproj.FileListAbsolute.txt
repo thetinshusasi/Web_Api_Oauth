@@ -1,0 +1,17 @@
+D:\Test Code\C#\Web Api\Web_Api_Oauth\Web_Api_Oauth\WebAPI.DLL\bin\Debug\WebAPI.DLL.dll.config
+D:\Test Code\C#\Web Api\Web_Api_Oauth\Web_Api_Oauth\WebAPI.DLL\bin\Debug\WebAPI.DLL.dll
+D:\Test Code\C#\Web Api\Web_Api_Oauth\Web_Api_Oauth\WebAPI.DLL\bin\Debug\WebAPI.DLL.pdb
+D:\Test Code\C#\Web Api\Web_Api_Oauth\Web_Api_Oauth\WebAPI.DLL\bin\Debug\AutoMapper.dll
+D:\Test Code\C#\Web Api\Web_Api_Oauth\Web_Api_Oauth\WebAPI.DLL\bin\Debug\AutoMapper.EF6.dll
+D:\Test Code\C#\Web Api\Web_Api_Oauth\Web_Api_Oauth\WebAPI.DLL\bin\Debug\DelegateDecompiler.dll
+D:\Test Code\C#\Web Api\Web_Api_Oauth\Web_Api_Oauth\WebAPI.DLL\bin\Debug\DelegateDecompiler.EntityFramework.dll
+D:\Test Code\C#\Web Api\Web_Api_Oauth\Web_Api_Oauth\WebAPI.DLL\bin\Debug\EntityFramework.dll
+D:\Test Code\C#\Web Api\Web_Api_Oauth\Web_Api_Oauth\WebAPI.DLL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Test Code\C#\Web Api\Web_Api_Oauth\Web_Api_Oauth\WebAPI.DLL\bin\Debug\Mono.Reflection.dll
+D:\Test Code\C#\Web Api\Web_Api_Oauth\Web_Api_Oauth\WebAPI.DLL\bin\Debug\AutoMapper.pdb
+D:\Test Code\C#\Web Api\Web_Api_Oauth\Web_Api_Oauth\WebAPI.DLL\bin\Debug\AutoMapper.xml
+D:\Test Code\C#\Web Api\Web_Api_Oauth\Web_Api_Oauth\WebAPI.DLL\bin\Debug\EntityFramework.xml
+D:\Test Code\C#\Web Api\Web_Api_Oauth\Web_Api_Oauth\WebAPI.DLL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Test Code\C#\Web Api\Web_Api_Oauth\Web_Api_Oauth\WebAPI.DLL\obj\Debug\WebAPI.DLL.csprojResolveAssemblyReference.cache
+D:\Test Code\C#\Web Api\Web_Api_Oauth\Web_Api_Oauth\WebAPI.DLL\obj\Debug\WebAPI.DLL.dll
+D:\Test Code\C#\Web Api\Web_Api_Oauth\Web_Api_Oauth\WebAPI.DLL\obj\Debug\WebAPI.DLL.pdb

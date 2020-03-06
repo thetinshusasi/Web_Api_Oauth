@@ -33,6 +33,7 @@ namespace WebAPITut
                         // additional fields by chaining methods off SingleApiVersion.
                         //
                         c.SingleApiVersion("v1", "WebAPITut");
+                        
 
                         // If you want the output Swagger docs to be indented properly, enable the "PrettyPrint" option.
                         //
@@ -86,7 +87,7 @@ namespace WebAPITut
                         // By default, this will be controller name but you can use the "GroupActionsBy" option to
                         // override with any value.
                         //
-                        //c.GroupActionsBy(apiDesc => apiDesc.HttpMethod.ToString());
+                        c.GroupActionsBy(apiDesc => apiDesc.HttpMethod.ToString());
 
                         // You can also specify a custom sort order for groups (as defined by "GroupActionsBy") to dictate
                         // the order in which operations are listed. For example, if the default grouping is in place
@@ -182,7 +183,7 @@ namespace WebAPITut
                         // Use the "DocumentTitle" option to change the Document title.
                         // Very helpful when you have multiple Swagger pages open, to tell them apart.
                         //
-                        //c.DocumentTitle("My Swagger UI");
+                        c.DocumentTitle("NORTH Wind Swagger");
 
                         // Use the "InjectStylesheet" option to enrich the UI with one or more additional CSS stylesheets.
                         // The file must be included in your project as an "Embedded Resource", and then the resource's

@@ -4,14 +4,15 @@ using System.Linq;
 using System.Net;
 using System.Net.Http;
 using System.Web.Http;
-using WebAPI.DLL.IRepositories;
 using System.Threading.Tasks;
 using AutoMapper;
-using WebAPI.DLL;
 using WebAPI.DLL.DataModelsDTOs;
+using WebAPI.DLL.IRepositories;
+
 
 namespace WebAPITut.Controllers
 {
+    [RoutePrefix("api/product")]
     public class ProductController : ApiController
     {
         private readonly IProductRepository _productRepository;
@@ -23,9 +24,9 @@ namespace WebAPITut.Controllers
         }
 
 
-        [Route("GetAllProducts")]
+        [Route("getAll")]
         [HttpGet]
-        public async Task<IHttpActionResult> GetProduct()
+        public async Task<IHttpActionResult> GetAll()
         {
            
             var products = _mapper.Map<IEnumerable<ProductDto>>(_productRepository.GetAll());
